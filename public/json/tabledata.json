@@ -1,0 +1,116 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 1,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        },
+        {
+            "id": 2,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        },
+        {
+            "id": 3,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        },
+        {
+            "id": 4,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        },
+        {
+            "id": 5,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        },
+        {
+            "id": 6,
+            "title": "Rinkan Club",
+            "summary": null,
+            "category": "Anime",
+            "language": "en",
+            "pv_total": "3",
+            "pv_day": "0",
+            "pv_week": "0",
+            "pv_month": "0",
+            "published": "Yes",
+            "created_at": "4/22/15, 12.00 AM",
+            "updated_at": "3/21/22, 7:30 PM"
+        }
+    ],
+    "first_page_url": "null",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "null",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "null",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": null,
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": null,
+    "path": "null",
+    "per_page": "30",
+    "prev_page_url": null,
+    "to": 3,
+    "total": 6
+}
