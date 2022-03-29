@@ -41,5 +41,5 @@ a {
   overflow: hidden;
   white-space: nowrap;
   font-weight: 500;
-  color: #2979ff;
+  color: #2979ff !important;
 }
